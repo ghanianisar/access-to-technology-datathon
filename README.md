@@ -127,4 +127,11 @@ Pages audited/total pages ratio (target: 100%)
 Mean time to remediation (target: <2 weeks)
 
 **Stakeholder Responsibilities**
-Stakeholder Accountability: Defined roles for Product, Design, Development, QA teams
+**Stakeholder	                  Primary Responsibilities**
+Product Management	      Embed accessibility into product requirements, prioritize remediation, define accessibility KPIs
+Design Teams	         Apply accessible color palettes, design inclusive interfaces, and consider diverse user abilities
+Development Teams	      Write semantic HTML, fix accessibility violations, and integrate automated accessibility testing
+QA / Testing Teams	     Perform accessibility audits, test with assistive technologies, and validate fixes
+Legal / Compliance	     Track regulatory requirements (WCAG/ADA), manage audits and risk mitigation
+Executive Leadership	Allocate resources, set organization-wide accessibility goals, and drive accountability
+
