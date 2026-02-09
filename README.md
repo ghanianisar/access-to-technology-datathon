@@ -30,21 +30,21 @@ Model Evaluation & Interpretation
     ↓
 Business Recommendations
 
-** **Methodology****
+**Methodology**
 
-1**. **Data Cleaning**
+1 **Data Cleaning**
 Removed columns with high missing values (70%+)
 Standardized text fields and normalized domain names
 Converted numeric fields to proper data types
 Dropped rows missing critical information
 Result: 3,524 clean violation records across 448 websites
 
-2.** **Exploratory Data Analysis**
+2.**Exploratory Data Analysis**
 Analyzed violation distribution across 6 domain categories
 Identified top 10 most common violation types
 Created cross-tabulations of violation categories by domain
 Ranked websites by severity scores
-**Key Findings******:**
+**Key Findings**
   News/Media sites have highest violation counts
   Color contrast issues account for 31% of violations
   Syntax violations most common, but layout violations more severe
@@ -79,7 +79,7 @@ Translated findings into actionable business recommendations
 - Matplotlib, Seaborn for data visualization
 - Jupyter Notebook for analysis
 
-- ****6.*****Business Recommendations**
+- 6.**Business Recommendations**
 - 6.1. **Prioritize News/Media Domain (Highest Risk)**
 Finding: News and Media sites have 47% more violations than average
 Recommendations:
