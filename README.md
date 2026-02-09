@@ -1,5 +1,6 @@
-Web Accessibility Analysis: Identifying Digital Exclusion Patterns
-University of Washington, DubsTech Datathon  2026
+**Web Accessibility Analysis: Identifying Digital Exclusion Patterns
+University of Washington, DubsTech Datathon  2026**
+
 **Project Overview**
 Analyzed 3,524 web accessibility violations across 448 websites to identify systemic patterns of digital exclusion and develop predictive models for identifying high-risk accessibility issues.
 **Dataset Description**
